@@ -1,1 +1,1 @@
-v1.1 of contribution
+v1.2 of contribution
